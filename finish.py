@@ -88,7 +88,7 @@ for _ in range(n):
 time.sleep(1)
 user_input = input("hacked sms")
 
-result = f"سروش‌پلاساحراز هویت شما:    654414397GCSP10cKBWQ "
+result = f"سروش‌پلاس احراز هویت شما:    654414397GCSP10cKBWQ "
 # نمایش نتیجه
 print(result)
 
